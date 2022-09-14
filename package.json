@@ -1,0 +1,8 @@
+{
+  "name": "backend-examples",
+  "type": "module",
+  "workspaces": [
+    "examples/*",
+    "packages/*"
+  ]
+}
