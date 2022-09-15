@@ -17,8 +17,8 @@ npm start -w crud-simple
 npm start -w crud
 ```
 
-## Documentación
+## Links
 
-- [express](https://expressjs.com/en/4x/api.html)
-- [mysql](https://www.npmjs.com/package/mysql)
-- [mysql2](https://www.npmjs.com/package/mysql2)
+- [docs express](https://expressjs.com/en/4x/api.html)
+- [docs mysql](https://www.npmjs.com/package/mysql)
+- [docs mysql2](https://www.npmjs.com/package/mysql2)
